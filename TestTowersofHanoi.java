@@ -30,10 +30,10 @@ public class SolveTowersofHanoi {
 		}
 		
 	}
-/**
- * 
- * @param args
- */
+	/**
+	 * Main method of the class 
+	 * @param args
+ 	*/
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
