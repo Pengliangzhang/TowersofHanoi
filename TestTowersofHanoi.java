@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @author Pengliang Zhang
  * @version Jan 22
  */
-public class TestTowersofHanoi {
+public class SolveTowersofHanoi {
 	/**
 	 * 
 	 * @param n number of disk the player wants use
