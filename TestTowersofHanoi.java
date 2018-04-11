@@ -1,10 +1,8 @@
-package assignment1;
-
 import java.util.Scanner;
 /**
  * Write the class to solve the Hanoi of tower problem
  * @author Pengliang Zhang
- * @version Jan 22, 2018
+ * @version Jan 22
  */
 public class TestTowersofHanoi {
 	/**
